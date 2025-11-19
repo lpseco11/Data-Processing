@@ -1,2 +1,2 @@
 # Data-Processing
-Big Data project using Hadoop and Apache Spark for distributed data processing.
+Big Data project implementing distributed data processing using Hadoop MapReduce, Spark RDD, Spark SQL, and Apache Kafka.
